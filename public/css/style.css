@@ -282,8 +282,8 @@ left: 9.7%;
 top: 304.5vw;
 }
 .grass1{
-max-width: 185px;
-width: 11.4vw;
+max-width: 100px;
+width: 11vw;
 left: 10%;
 top: 80vw;
 }
@@ -294,10 +294,10 @@ left: 80%;
 top: 35vw;
 }
 .grass3{
-max-width: 185px;
-width: 12.3vw;
-left: 80.7%;
-top: 84.8vw;
+max-width: 95px;
+width: 12vw;
+left: 50%;
+top: 85vw;
 }
 .grass4{
 max-width: 100px;
