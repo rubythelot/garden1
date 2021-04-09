@@ -1,12 +1,12 @@
-'use strict';
-let date = new Date(2021, 2, 7);
+ 'use strict';
+let date = new Date(2021, 3, 31);
 let final_garden_date = date.setDate(date.getDate() + 21);
-date = new Date(2021, 2, 7);
+date = new Date(2021, 3, 31);
 let adv_garden_date = date.setDate(date.getDate() + 14);
-date = new Date(2021, 2, 7);
+date = new Date(2021, 3, 31);
 let piecefull_garden_date = date.setDate(date.getDate() + 7);
 let current_date = new Date();
-let hour = 3600000;
+let hour = 60000;
 
 setInterval(getactualDate, hour); 
 
