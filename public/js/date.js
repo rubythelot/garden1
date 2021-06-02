@@ -1,9 +1,9 @@
  'use strict';
-let date = new Date(2021, 2, 31);
+let date = new Date(2021, 5,1);
 let final_garden_date = date.setDate(date.getDate() + 21);
-date = new Date(2021, 2, 31);
+date = new Date(2021, 5, 1);
 let adv_garden_date = date.setDate(date.getDate() + 14);
-date = new Date(2021, 2, 31);
+date = new Date(2021, 5, 1);
 let piecefull_garden_date = date.setDate(date.getDate() + 7);
 let current_date = new Date();
 let hour = 60000;
